@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BehroozEivazi
 - 👀 I’m interested in js developer and writing code
-- 🌱 I’m currently learning js backend and frontend
+- 🌱 I’m currently work in front and backend position of js
 - 💞️ I’m looking to collaborate on js developer position
 - 📫 How to reach me behroozeivazi@yahoo.com
