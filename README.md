@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BehroozEivazi
 - 👀 I’m interested in js developer and writing code
-- 🌱 I’m currently work in front and backend position of js
-- 💞️ I’m looking to collaborate on js developer position
+- 🌱 I’m currently work in front-end position in Central Insurance of Iran(Mitoconnect)
+- 💞️ I’m looking to collaborate on react Js position 
 - 📫 How to reach me behroozeivazi@yahoo.com
